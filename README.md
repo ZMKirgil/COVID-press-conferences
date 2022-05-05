@@ -8,8 +8,6 @@ The repository contains data and syntax to reproduce the results of the [paper].
 
 ## Data
 
-The full data and code will be released upon publication.
-
 The data used in this study consists of various datasets: 
 * COVID-19 press conferences corpus, 
 * Newsbank corpus and 
